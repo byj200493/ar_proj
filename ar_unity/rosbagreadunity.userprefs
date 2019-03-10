@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Spawner.cs">
+    <Files>
+      <File FileName="Assets/ObjectBuilderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/editor/ObjectBuilderEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Spawner.cs" Line="10" Column="33" />
+      <File FileName="../../ar_unity_mod/ar_unity/Assets/readrosbagdata.cs" Line="1" Column="1" />
+      <File FileName="../../ar_unity_mod/ar_unity/Assets/PlayScript.cs" Line="47" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

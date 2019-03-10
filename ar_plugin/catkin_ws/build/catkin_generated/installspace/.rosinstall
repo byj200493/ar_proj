@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dev/Code/ar_proj/ar_plugin/catkin_ws/install/setup.sh

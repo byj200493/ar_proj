@@ -1,0 +1,19 @@
+<package>
+  <name>rosbagreadposeplugin</name>
+<version>1.0.0</version>
+ <description>
+
+  just for the sake of compilation
+  </description>
+
+<license>me</license>
+ <maintainer email="me@me.com">me</maintainer>
+<buildtool_depend>catkin</buildtool_depend>
+<build_depend>eigen_conversions</build_depend>
+<build_depend>rosbag</build_depend>
+<build_depend>std_msgs</build_depend>
+<build_depend>opencv2</build_depend>
+<run_depend>rosbag</run_depend>
+ <run_depend>std_msgs</run_depend>
+ <run_depend>opencv2</run_depend>
+</package>

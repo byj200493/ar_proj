@@ -1,0 +1,8 @@
+prefix=/home/dev/Code/ar_proj/ar_plugin/catkin_ws/devel
+
+Name: rosbagreadposeplugin
+Description: Description of rosbagreadposeplugin
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/dev/Code/ar_proj/ar_plugin/catkin_ws/devel/lib 
+Requires: 
